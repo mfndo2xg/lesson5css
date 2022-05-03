@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(125, 208, 208);
+    margin: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    background-color: aquamarine;
+}
+
+.navigation {
+    width: 100%;
+}
+
+.nav-link {
+    margin-left: 15%;
+    color: black;
+
+}
+
+ul {
+    display: flex;
+    list-style: none;
+
+}
+
+.test-box-model {
+    background-color: red;
+    width: 50%;
+    height: 50px;
+    margin: 5%;
+    padding: 5%;
+    border: 1px solid black;
+}
+
+.test-box-model p {
+    color: white;
+}
+
+.box-outer {
+    background-color: blue;
+}
