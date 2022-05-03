@@ -42,3 +42,17 @@ ul {
 .box-outer {
     background-color: blue;
 }
+
+.btn {
+    width: 100px;
+    height: 30px;
+    border: none;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+
+}
+
+.primary {
+    background-color: blue;
+}
